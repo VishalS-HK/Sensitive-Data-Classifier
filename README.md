@@ -2,14 +2,6 @@
 
 This project classifies sensitive data from uploaded documents using AI agents and provides context on the sensitive fields found.
 
-## Done by:
-
-- Vishal S
-- PES University
-- SRN: PES2UG21CS609
-- email: vishal.rsnaidu@gmail.com
-- phone: 8971051712
-
 ## Prerequisites
 
 - Docker

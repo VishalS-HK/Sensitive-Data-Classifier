@@ -23,7 +23,7 @@ This project classifies sensitive data from uploaded documents using AI agents a
 
 1. **Please Make sure Docker and Docker Compose is there.**
 2. **Open the terminal in the app directory.**
-3. **Create a `.env` file in the `app` directory with the following content. In this case, there is already a .env file in the working directory, with the OPENAI_API_KEY**
+3. **Create a `.env` file in the `app` directory with the following content.**
 
    ```env
    OPENAI_API_KEY=your_openai_api_key
@@ -60,8 +60,6 @@ This project classifies sensitive data from uploaded documents using AI agents a
 - `Files/`: Sample documents for testing. Use these text files for uploading.
 
 ## Notes
-
-- **In this case, there is already a .env file in the working directory, with the OPENAI_API_KEY**
 - **The MongoDB database is configured to run in a Docker container and store data in the `./data` directory.**
 
 ## System Design and Database Design

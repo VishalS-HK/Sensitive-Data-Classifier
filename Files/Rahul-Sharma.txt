@@ -1,0 +1,19 @@
+Rahul Sharma
+Country: India
+
+Date of Birth: June 25, 1990
+PAN Card Number: ABCPS1234K
+Address: 78 Lotus Residency, MG Road, Mumbai, Maharashtra, 400001
+Occupation: Senior Analyst at Infotech Solutions Pvt Ltd
+Medical Record Number: IND-MRN12345678
+Medical History:
+Hemoglobin levels consistently on the lower side, indicating mild anemia.
+Thyroid tests consistently within normal ranges.
+Recent Test Results:
+Hemoglobin: 11 g/dL (slightly low)
+Thyroid Function (TSH): 3.0 µIU/mL (normal)
+Health Insurance: ICICI Lombard - Policy #IND123987654
+Credit Card Details:
+Discover Card ending in 0004
+Expiry Date: 08/2024
+Issued by: HDFC Bank

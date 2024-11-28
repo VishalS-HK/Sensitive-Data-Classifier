@@ -1,0 +1,19 @@
+Emily Brown
+Country: Australia
+
+Date of Birth: September 10, 1992
+Tax File Number (TFN): 123 456 789
+Address: 45 Green Avenue, Sydney, NSW, 2000
+Occupation: Graphic Designer at Pixel Dreams Studio
+Medical Record Number: AUS-MRN567890
+Medical History:
+Diagnosed with mild anemia in 2022.
+Iron supplements prescribed, with regular monitoring of iron levels.
+Recent Test Results:
+Blood Pressure: Normal (120/80 mmHg)
+Iron Levels: Slightly below normal (10 µg/dL)
+Health Insurance: Medibank Private - Policy #AUS654321987
+Credit Card Details:
+Mastercard ending in 0004
+Expiry Date: 05/2025
+Issued by: Commonwealth Bank

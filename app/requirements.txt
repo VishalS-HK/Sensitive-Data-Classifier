@@ -1,0 +1,4 @@
+flask
+crewai
+pymongo
+langchain-openai

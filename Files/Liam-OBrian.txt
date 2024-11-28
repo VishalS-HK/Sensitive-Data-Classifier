@@ -1,0 +1,19 @@
+Liam O'Connor
+Country: Ireland
+
+Date of Birth: November 12, 1980
+PPS Number: 1234567T
+Address: 22 Clover Lane, Dublin, Ireland, D02 F243
+Occupation: Project Manager at Emerald IT Solutions
+Medical Record Number: IRL-MRN56712389
+Medical History:
+Diagnosed with borderline high blood pressure in 2018.
+Maintains cholesterol levels within a normal range through diet and exercise.
+Recent Test Results:
+Blood Pressure: 135/85 mmHg (high-normal)
+Cholesterol: 190 mg/dL (normal)
+Health Insurance: VHI Healthcare - Policy #IRL321987654
+Credit Card Details:
+JCB Card ending in 3333
+Expiry Date: 11/2025
+Issued by: Bank of Ireland

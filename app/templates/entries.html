@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Database Entries</h1>
+    <table border="1">
+        <thead>
+            <tr>
+                <th>Filename</th>
+                <th>Output1</th>
+                <th>Output2</th>
+                <th>Timestamp</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for entry in entries %}
+            <tr>
+                <td>{{ entry.filename }}</td>
+                <td>{{ entry.output1 }}</td>
+                <td>{{ entry.output2 }}</td>
+                <td>{{ entry.timestamp }}</td>
+                <td>
+                    <form action="/delete/{{ entry._id }}" method="POST" style="display:inline;">
+                        <button type="submit">delete</button>
+                    </form>
+                </td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+    <br>
+    <a href="/">Go Back</a>
+</body>
+</html>

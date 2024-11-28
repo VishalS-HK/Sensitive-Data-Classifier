@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="styles.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Output</title>
+</head>
+<body>
+    <div class="container">
+        {% if error %}
+        <div class="error-msg">
+            <h2>Error</h2>
+            <p>{{ error }}</p>
+        </div>
+        {% endif %}
+
+        <div class="results">
+            <h3>Classification:</h3>
+            <pre>
+                {{ output1 }}
+            </pre>
+        </div>
+        <div class="results">
+            <h3>Sensitive Fields:</h3>
+            <pre>
+                {{ output2 }}
+            </pre>
+        </div>
+
+        {% if mongodb_id %}
+        <div class="mongodb-info">
+            <h4>Database Information</h4>
+            <p>Results saved with ID: <code>{{ mongodb_id }}</code></p>
+        </div>
+        {% endif %}
+        <br>
+        <br>
+        <a href="/">Upload another document</a>
+        <br>
+        <br>
+        <a href="/entries">List all entries</a>
+    </div>
+</body>
+</html>
